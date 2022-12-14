@@ -1,2 +1,2 @@
-This is my first JavaScript project.
+#This is my first JavaScript project.
 It is Blackjack game.
