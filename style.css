@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(https://img.freepik.com/free-vector/3d-realistic-casino-card-suit-symbols-design_1017-32740.jpg?size=626&ext=jpg);
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+div{
+    margin-top: 8rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    border-bottom: 6px;
+    font-size: 3.3rem;
+    margin: 20px;
+}
+
+h2{
+    font-size: 2rem;
+    margin: 20px;
+}
+
+h3{
+    font-size: 1.5rem;
+    margin: 15px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-width: 6px;
+    border-color:  #E0AA3E;
+    width: 10em;
+    font-size: 2rem;
+    margin: 10px;
+}
